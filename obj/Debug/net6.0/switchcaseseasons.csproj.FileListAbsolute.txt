@@ -1,0 +1,14 @@
+C:\Users\HP\source\repos\switchcaseseasons\bin\Debug\net6.0\switchcaseseasons.exe
+C:\Users\HP\source\repos\switchcaseseasons\bin\Debug\net6.0\switchcaseseasons.deps.json
+C:\Users\HP\source\repos\switchcaseseasons\bin\Debug\net6.0\switchcaseseasons.runtimeconfig.json
+C:\Users\HP\source\repos\switchcaseseasons\bin\Debug\net6.0\switchcaseseasons.dll
+C:\Users\HP\source\repos\switchcaseseasons\bin\Debug\net6.0\switchcaseseasons.pdb
+C:\Users\HP\source\repos\switchcaseseasons\obj\Debug\net6.0\switchcaseseasons.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\switchcaseseasons\obj\Debug\net6.0\switchcaseseasons.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\switchcaseseasons\obj\Debug\net6.0\switchcaseseasons.AssemblyInfo.cs
+C:\Users\HP\source\repos\switchcaseseasons\obj\Debug\net6.0\switchcaseseasons.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\switchcaseseasons\obj\Debug\net6.0\switchcaseseasons.dll
+C:\Users\HP\source\repos\switchcaseseasons\obj\Debug\net6.0\refint\switchcaseseasons.dll
+C:\Users\HP\source\repos\switchcaseseasons\obj\Debug\net6.0\switchcaseseasons.pdb
+C:\Users\HP\source\repos\switchcaseseasons\obj\Debug\net6.0\switchcaseseasons.genruntimeconfig.cache
+C:\Users\HP\source\repos\switchcaseseasons\obj\Debug\net6.0\ref\switchcaseseasons.dll
